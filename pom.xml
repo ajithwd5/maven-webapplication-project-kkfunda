@@ -98,13 +98,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>KK FUNDA Releases Nexus Repository</name>
-	      <url>http://13.233.146.170:8081/repository/Aj_release/</url>
+	      <url>http://65.0.108.115:8081/repository/Aj_release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>KK FUNDA Snapshot Nexus Repository </name>
-	      <url>http://13.233.146.170:8081/repository/Aj_Snapshot/</url>
+	      <url>http://65.0.108.115:8081/repository/Aj_Snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
